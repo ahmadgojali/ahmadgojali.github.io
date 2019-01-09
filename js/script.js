@@ -83,4 +83,3 @@ $(window).scroll(function(){
 	 }
 
 });
-	
